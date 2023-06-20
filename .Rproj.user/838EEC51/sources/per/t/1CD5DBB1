@@ -1,0 +1,27 @@
+{
+    "id": "1CD5DBB1",
+    "path": "~/05 OTHERS/meta-analysis_fluvoxamine/01_Figure_1.R",
+    "project_path": "01_Figure_1.R",
+    "type": "r_source",
+    "hash": "3880866242",
+    "contents": "",
+    "dirty": false,
+    "created": 1687271564922.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,36",
+        "scrollLine": "9"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1687275908,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1687275908718,
+    "read_only": false,
+    "read_only_alternatives": []
+}
