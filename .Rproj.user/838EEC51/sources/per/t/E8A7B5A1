@@ -1,27 +1,27 @@
 {
-    "id": "1CD5DBB1",
-    "path": "~/05 OTHERS/meta-analysis_fluvoxamine/01_Figure_1.R",
-    "project_path": "01_Figure_1.R",
+    "id": "E8A7B5A1",
+    "path": "~/05 OTHERS/meta-analysis_fluvoxamine/02_Figure_S3.R",
+    "project_path": "02_Figure_S3.R",
     "type": "r_source",
-    "hash": "4292698637",
+    "hash": "1264110866",
     "contents": "",
     "dirty": false,
-    "created": 1687271564922.0,
+    "created": 1687337822976.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,0",
-        "scrollLine": "0"
+        "cursorPosition": "17,27",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687336339,
+    "lastKnownWriteTime": 1687338289,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687336339766,
+    "last_content_update": 1687338289970,
     "read_only": false,
     "read_only_alternatives": []
 }
